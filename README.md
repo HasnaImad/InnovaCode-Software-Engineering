@@ -249,9 +249,3 @@ The documentation covers:
 * Interaction Diagrams
 * User Interface Design
 * Software Testing
-
----
-
-## 📌 Note
-
-This GitHub repository is primarily a **documentation portfolio** for the InnovaCode Software Engineering project. It contains the project's requirements, design, and testing documentation rather than source-code files.
